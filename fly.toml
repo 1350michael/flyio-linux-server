@@ -1,5 +1,5 @@
 # fly.toml app configuration file
-app = "your-app-name"
+app = "michael-linux-server"
 primary_region = "ord"
 
 [build]
